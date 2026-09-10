@@ -32,9 +32,9 @@ window.SITE_CONFIG = {
   // One Stripe Payment Link per machine. Blank = that machine routes to an
   // enquiry instead of pretending to take payment.
   paymentLinks: {
-    "LS-CREX6M": "",     // CREX6-M Mini Excavator - GBP 4,999
-    "LS-DP5000": "",     // DP5000 500 kg Tracked Mini Dumper - GBP 2,499
-    "LS-TW1375G": "",    // TW 13/75G Petrol Wood Chipper - GBP 2,199
-    "LS-360SW": "",      // 360 SW Stump Grinder - GBP 2,599
+    "LS-CREX6M": "https://buy.stripe.com/5kQ14ngB8d6SbV26ba6c008",
+    "LS-DP5000": "https://buy.stripe.com/28E6oHdoWff05wE6ba6c009",
+    "LS-TW1375G": "https://buy.stripe.com/8x27sLfx41oacZ62YY6c00a",
+    "LS-360SW": "https://buy.stripe.com/aFa9AT3Om8QCgbi2YY6c00b"
   }
 };
