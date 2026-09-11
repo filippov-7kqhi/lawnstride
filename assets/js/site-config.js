@@ -13,13 +13,13 @@ window.SITE_CONFIG = {
 
   // Shown in the footer of every page. Google and Stripe both verify these.
   business: {
-    company:   "",
+    company:   "LawnStride Ltd",
     companyNo: "",
     vatNo:     "",
-    street:    "",
-    city:      "",
-    postcode:  "",
-    phone:     ""
+    street:    "50 Sea View Rd",
+    city:      "Colwyn Bay",
+    postcode:  "LL29 8DG",
+    phone:     "+44 7349 073003"
   },
 
   // Data collector that feeds the admin dashboard. Without it the dashboard
