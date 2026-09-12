@@ -13,7 +13,7 @@ window.SITE_CONFIG = {
 
   // Shown in the footer of every page. Google and Stripe both verify these.
   business: {
-    company:   "LawnStride Ltd",
+    company:   "LawnStride",
     companyNo: "",
     vatNo:     "",
     street:    "50 Sea View Rd",
